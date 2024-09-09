@@ -1,0 +1,122 @@
+{
+    "1": {
+        "diaSemana": "Segunda-feira",
+        "valor": 1000
+    },
+    "2": {
+        "diaSemana": "Terça-feira",
+        "valor": 1500
+    },
+    "3": {
+        "diaSemana": "Quarta-feira",
+        "valor": 0
+    },
+    "4": {
+        "diaSemana": "Quinta-feira",
+        "valor": 2000
+    },
+    "5": {
+        "diaSemana": "Sexta-feira",
+        "valor": 2500
+    },
+    "6": {
+        "diaSemana": "Sábado",
+        "valor": 0
+    },
+    "7": {
+        "diaSemana": "Domingo",
+        "valor": 0
+    },
+    "8": {
+        "diaSemana": "Segunda-feira",
+        "valor": 3000
+    },
+    "9": {
+        "diaSemana": "Terça-feira",
+        "valor": 3500
+    },
+    "10": {
+        "diaSemana": "Quarta-feira",
+        "valor": 4000
+    },
+    "11": {
+        "diaSemana": "Quinta-feira",
+        "valor": 4500
+    },
+    "12": {
+        "diaSemana": "Sexta-feira",
+        "valor": 5000
+    },
+    "13": {
+        "diaSemana": "Sábado",
+        "valor": 0
+    },
+    "14": {
+        "diaSemana": "Domingo",
+        "valor": 0
+    },
+    "15": {
+        "diaSemana": "Segunda-feira",
+        "valor": 5500
+    },
+    "16": {
+        "diaSemana": "Terça-feira",
+        "valor": 6000
+    },
+    "17": {
+        "diaSemana": "Quarta-feira",
+        "valor": 6500
+    },
+    "18": {
+        "diaSemana": "Quinta-feira",
+        "valor": 7000
+    },
+    "19": {
+        "diaSemana": "Sexta-feira",
+        "valor": 7500
+    },
+    "20": {
+        "diaSemana": "Sábado",
+        "valor": 0
+    },
+    "21": {
+        "diaSemana": "Domingo",
+        "valor": 0
+    },
+    "22": {
+        "diaSemana": "Segunda-feira",
+        "valor": 8000
+    },
+    "23": {
+        "diaSemana": "Terça-feira",
+        "valor": 8500
+    },
+    "24": {
+        "diaSemana": "Quarta-feira",
+        "valor": 9000
+    },
+    "25": {
+        "diaSemana": "Quinta-feira",
+        "valor": 9500
+    },
+    "26": {
+        "diaSemana": "Sexta-feira",
+        "valor": 10000
+    },
+    "27": {
+        "diaSemana": "Sábado",
+        "valor": 0
+    },
+    "28": {
+        "diaSemana": "Domingo",
+        "valor": 0
+    },
+    "29": {
+        "diaSemana": "Segunda-feira",
+        "valor": 11500
+    },
+    "30": {
+        "diaSemana": "Terça-feira",
+        "valor": 11000
+    }
+}

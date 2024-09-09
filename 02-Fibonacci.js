@@ -11,15 +11,16 @@ console.log('\n------------ SEQUÊNCIA DE FIBONACCI ------------\n');
 let entrada = parseInt(prompt('Informe um numero para verificar se pertence ou não a sequência: '));
 
 let elementoAnterior = 1;
-let elemento = 1;
+let elemento = 0;
 let flag = false;
 let textoFB = '\nSequência de Fibonacci => { 0, ';
 
-for (let i = 0; i < entrada; i++) {
+for (let i = 0; i <= entrada; i++) {
+    if (elemento === entrada) flag = true;
+    if (elemento == 0) elemento = 1;
     textoFB += elemento + ', ';
     elementoAnterior = elemento - elementoAnterior;
     elemento += elementoAnterior;
-    if (elemento === entrada) flag = true;
 }
 
 textoFB += '...}';
